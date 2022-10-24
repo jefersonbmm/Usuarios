@@ -1,0 +1,36 @@
+html {
+  font-size: 14px;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-image: url("https://posgrado.uni.edu.ni/wp-content/uploads/2016/04/edificio-nuevo3-min-1080x675.jpg")
+}
+
+
+/*body {
+    background-image: url("imagenes/fondo.png")
+}*/
+
+
+h1{
+  margin-bottom: 20px;
+  margin-top: 40px;
+  font-size: 50px;
+  font-weight: 400;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
